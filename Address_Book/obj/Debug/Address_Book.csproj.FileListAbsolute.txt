@@ -1,0 +1,13 @@
+C:\Users\Oleg\Desktop\Address_Book\bin\Debug\Address_Book.exe.config
+C:\Users\Oleg\Desktop\Address_Book\bin\Debug\Address_Book.exe
+C:\Users\Oleg\Desktop\Address_Book\bin\Debug\Address_Book.pdb
+C:\Users\Oleg\Desktop\Address_Book\obj\Debug\Address_Book.csprojAssemblyReference.cache
+C:\Users\Oleg\Desktop\Address_Book\obj\Debug\Address_Book.Form1.resources
+C:\Users\Oleg\Desktop\Address_Book\obj\Debug\Address_Book.Properties.Resources.resources
+C:\Users\Oleg\Desktop\Address_Book\obj\Debug\Address_Book.csproj.GenerateResource.cache
+C:\Users\Oleg\Desktop\Address_Book\obj\Debug\Address_Book.csproj.CoreCompileInputs.cache
+C:\Users\Oleg\Desktop\Address_Book\obj\Debug\Address_Book.exe
+C:\Users\Oleg\Desktop\Address_Book\obj\Debug\Address_Book.pdb
+C:\Users\Oleg\Desktop\Address_Book\obj\Debug\Address_Book.AddForm.resources
+C:\Users\Oleg\Desktop\Address_Book\obj\Debug\Address_Book.DiaryForm.resources
+C:\Users\Oleg\Desktop\Address_Book\obj\Debug\Address_Book.AddNote.resources
